@@ -1,3 +1,31 @@
+[![Ouvrir dans Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/youtochibots/webcrawler_gitpod_java)
+# Web Crawler using Spring Boot and Completable Futures & EhCache
+
+Ce projet eswebcrwler
+## Prérequis
+
+- Java 17
+- Maven
+- Un IDE comme IntelliJ IDEA ou Eclipse
+
+## Installation
+
+1. Clonez le dépôt:
+   ```bash
+   git clone https://github.com/maxds-lyon/Kata-Spring.git
+   cd Kata-Spring
+   ```
+
+2. Construisez le projet avec Maven:
+   ```bash
+   mvn clean install
+   ```
+
+3. Lancez l'application Spring Boot:
+   ```bash
+   mvn spring-boot:run
+   ```
+
 # Web Crawler using Spring Boot and Completable Futures & EhCache
 
 An example application using Spring boot and Completable Future & EhCache
